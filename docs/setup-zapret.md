@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # Setup Zapret to bypass DPI
 
 ## 1 - Keep Hosts content up to date
