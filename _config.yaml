@@ -1,1 +1,5 @@
 theme: minima
+
+minima:
+  nav_pages:
+    -
