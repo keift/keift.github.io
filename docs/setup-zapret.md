@@ -62,7 +62,7 @@ Zapret only bypasses DPI restrictions. But it does not set up a DNS for us. We n
 > sudo systemctl restart NetworkManager
 > ```
 
-_If you want to undo this action you can do the following:_
+If you want to undo this action you can do the following:
 
 > ```shell
 > # Unlock /etc/resolv.conf file if it is already locked
